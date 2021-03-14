@@ -1,3 +1,5 @@
+// Ouestion 1
+
 import java.io.*;
 
 public class Pyramid
