@@ -11,6 +11,7 @@ Write a code to print the following patterns:
  * * * * 
 * * * * *
 
+
         A 
       B C 
     D E F 
